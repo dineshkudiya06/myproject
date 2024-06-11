@@ -1,3 +1,3 @@
 # myproject
 This is myproject
-author: Dinesh Kudiya
+author= Dinesh Kudiya
